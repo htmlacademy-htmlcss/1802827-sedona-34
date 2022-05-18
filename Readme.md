@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anti Anti](https://up.htmlacademy.ru/htmlcss/34/user/1802827).
-* Наставник: `Неизвестно`.
+* Наставник: [Елена Асташина] (https://htmlacademy.ru/profile/helen_astashina)`.
 
 ---
 
